@@ -1,0 +1,16 @@
+File:
+  Name: testfile.osm.pbf
+  Format: PBF
+  Compression: none
+  Size: 10864
+Header:
+  Bounding boxes:
+    (29.004,41.021,29.005,41.022)
+  With history: no
+  Options:
+    generator=osmium/1.15.0
+    osmosis_replication_timestamp=2025-06-30T00:00:00Z
+    pbf_dense_nodes=true
+    pbf_optional_feature_0=Sort.Type_then_ID
+    sorting=Type_then_ID
+    timestamp=2025-06-30T00:00:00Z
